@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @toleredp
-- 👀 I’m interested in Software Developer
+- 👀 I’m interested at Software Developer
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate anytime soon
 
